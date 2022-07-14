@@ -11,7 +11,7 @@ def calculator(number1, number2, operation):
 
 print("Enter Number 1:")
 a = int(input())
-print("Enter Number 2:")
+print("Enter Number 2 :")
 b = int(input())
 print("What you want to do ?")
 c = str(input())
